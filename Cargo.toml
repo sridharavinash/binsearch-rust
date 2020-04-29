@@ -1,5 +1,5 @@
 [package]
-name = "binseach-rust"
+name = "binsearch-rust"
 version = "0.1.0"
 authors = ["Avinash Sridhar"]
 edition = "2018"
